@@ -1,5 +1,5 @@
 # ghost-gemini-blog
-serve ghost blog over gemini
+serve ghost blog over [gemini](https://gemini.circumlunar.space/)
 
 attempts to convert blog html contents -> markdown -> gemini using existing python packages, works decently as long as post contents are not complex
 
